@@ -1,3 +1,5 @@
+package array;
+
 public class DuplicateElementBruteForce{
 //not applicable for more than 2 duplicate elements
 //poor performance(slow)
